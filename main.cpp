@@ -66,7 +66,7 @@ ac.cold();
 //  action 2: the ac warms room
 ac.warm();
 //  action 3: the ac leaks water
-ac.leakWater();
+ac.leakWater(); 
 //  3)
 //  Noun: tree
 //  action 1: the tree produces oxygen
