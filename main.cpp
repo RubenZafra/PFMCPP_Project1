@@ -70,17 +70,17 @@ ac.leakWater();
 //  3)
 //  Noun: tree
 //  action 1: the tree produces oxygen
-tree.oxygen();
+tree.produceOxygen();
 //  action 2: the tree does photosynthesis
-tree.photosynthesis();
+tree.doPhotosynthesis();
 //  action 3: the tree grows
-tree.gorw();
+tree.grow();
 //  4) 
 //  Noun: router
 //  action 1: the router provides WIFI
 router.wifi();
 //  action 2: the router provides Internet conexion
-router.internetConexion();
+router.provideInternetConexion();
 //  action 3: the router fires
 router.fire();
 //  5)
@@ -94,7 +94,7 @@ speaker.produceSound();
 //  6)
 //  Noun: sun
 //  action 1: the sun produces heat
-sun.heat();
+sun.produceHeat();
 //  action 2: the sun lights the earth
 sun.lightEarth();
 //  action 3: the sun implodes
@@ -105,8 +105,8 @@ sun.implode();
 ice.freeze();
 //  action 2: the ice melts
 ice.melt();
-//  action 3: the ice is cold 
-ice.cold();
+//  action 3: the ice burns the skin 
+ice.burn();
 //  8)
 //  Noun: cat
 //  action 1: the cat meows
@@ -126,11 +126,11 @@ dog.eat();
 //  10)
 //  Noun: apple
 //  action 1: the apple falls from the tree
-apple.fallTree();
+apple.fallFromTree();
 //  action 2: the apple rots
 apple.rot();
 //  action 3: the apple becomes fertilizer
-apple.fertilizer();
+apple.becomesFertilizer();
 
 
 #endif
