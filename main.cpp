@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: mouth                        
+//  action 1: the mouth speaks         
+mouth.speak();                            
+//  action 2: the mouth spits          
+mouth.spits();                         
+//  action 3: the mout yawns
+mouth.yawn(); 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: ac 
+//  action 1: the ac colds room
+ac.cold();
+//  action 2: the ac warms room
+ac.warm();
+//  action 3: the ac leaks water
+ac.leakWater();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: tree
+//  action 1: the tree produces oxygen
+tree.oxygen();
+//  action 2: the tree does photosynthesis
+tree.photosynthesis();
+//  action 3: the tree grows
+tree.gorw();
+//  4) 
+//  Noun: router
+//  action 1: the router provides WIFI
+router.wifi();
+//  action 2: the router provides Internet conexion
+router.internetConexion();
+//  action 3: the router fires
+router.fire();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: speaker
+//  action 1: the speaker vibrates
+speaker.vibrate();
+//  action 2: the speaker resonates
+speaker.resonate();
+//  action 3: the speaker produces sound
+speaker.produceSound();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: sun
+//  action 1: the sun produces heat
+sun.heat();
+//  action 2: the sun lights the earth
+sun.lightEarth();
+//  action 3: the sun implodes
+sun.implode();
+//  7) 
+//  Noun: ice
+//  action 1: the ice freezes water 
+ice.freeze();
+//  action 2: the ice melts
+ice.melt();
+//  action 3: the ice is cold 
+ice.cold();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cat
+//  action 1: the cat meows
+cat.meow();
+//  action 2: the cat purrs
+cat.purr();
+//  action 3: the cat grooms itself
+cat.groom();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1: the dog barks
+dog.bark();
+//  action 2: the dog bites
+dog.bite();
+//  action 3: the dog eats
+dog.eat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: apple
+//  action 1: the apple falls from the tree
+apple.fallTree();
+//  action 2: the apple rots
+apple.rot();
+//  action 3: the apple becomes fertilizer
+apple.fertilizer();
 
 
 #endif
